@@ -24,10 +24,7 @@ I architect features with **deep user scenario analysis** and **meticulous atten
 - User scenario mapping (Jira/Notion)  
 - Cross-team contract alignment  
 
----
 
-
----
 
 ## 🔍 How I Work  
 ```mermaid
